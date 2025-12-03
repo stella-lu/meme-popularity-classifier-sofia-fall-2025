@@ -2,7 +2,10 @@
 
 Sofia University, Artificial Intelligence class, Fall 2025.
 
+Dataset was taken from here, and it is also saved as a JSON in this repo.
 https://www.kaggle.com/datasets/sayangoswami/reddit-memes-dataset
+
+See the slideshow or the youtube video (link in slideshow) for a walkthrough.
 
 ## Setup
 
